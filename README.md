@@ -25,7 +25,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-<a target="_blank" href="dhanrajbharadwaz.blogspot.com">
+<a target="_blank" href="https://dhanrajbharadwaz.blogspot.com/">
  <img src="pngegg.png" height="30" width="40" >
 </a>
 
