@@ -15,11 +15,9 @@
 
 - 👯 I’m looking to collaborate for **hACKING GROUP**
 
-- 📝 I write articles on [https://medium.com/@dhanrajbharadwaz](https://medium.com/@dhanrajbharadwaz)
-
 -💬 Ask me about **Penetration Testing , Bug bounty , CTF , Red teem , Exploits , Reverse Engeneering , Networking , Electrical Engineering**
 
-- 📫 How to reach me **dhanrajbharadwaj369@gmail.com**
+- 📫 How to reach me   <a href="https://instagram.com/https://www.instagram.com/dhanrajbharadwaz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/dhanrajbharadwaz/" height="30" width="40" /></a>
 
 - 🎮 I Love plaing [Call of Duty](Call of Duty)
 
@@ -27,6 +25,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+<a target="_blank" href="dhanrajbharadwaz.blogspot.com">
+ <img src="pngegg.png" height="30" width="40" >
+</a>
+
+
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
