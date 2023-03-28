@@ -21,7 +21,7 @@
 
 - 🎮 I Love plaing [Call of Duty](Call of Duty)
 
-- ⚡ Fun fact **it's my id="zero369" on dark web {black hate forman} ;-}**
+- ⚡ Fun fact **you west your time today , dont't you?**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
