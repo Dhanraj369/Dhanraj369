@@ -17,7 +17,7 @@
 
 -💬 Ask me about **Penetration Testing , Bug bounty , CTF , Red teem , Exploits , Reverse Engeneering , Networking , Electrical Engineering**
 
-- 📫 How to reach me   <a href="https://instagram.com/https://www.instagram.com/dhanrajbharadwaz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/dhanrajbharadwaz/" height="30" width="40" /></a>
+- 📫 How to reach me   <a href="https://www.instagram.com/dhanrajbharadwaz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/dhanrajbharadwaz/" height="30" width="40" /></a>
 
 - 🎮 I Love plaing [Call of Duty](Call of Duty)
 
